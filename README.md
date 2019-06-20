@@ -1,3 +1,3 @@
 # Seq_modeling
 
-This algorithm are used for re-generation all the figures in the paper. 
+It mainly focus on variational reinforcement long-short term neural networks.  
