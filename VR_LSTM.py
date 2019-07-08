@@ -1,5 +1,5 @@
 """
-   Developed by Pengfei Sun. The proposed VRLSTM incoporates variational approximation 
+   Written by Pengfei Sun. The proposed VRLSTM incoporates variational approximation 
    and rewarded reinforment with long short term sequence model. It is naturally inspired 
    by the brain speech mechanism. 
 """
