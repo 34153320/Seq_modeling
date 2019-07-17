@@ -1,8 +1,12 @@
+#!/usr/bin/python
 """
    Written by Pengfei Sun. The proposed VRLSTM incoporates variational approximation 
    and rewarded reinforment with long short term sequence model. It is naturally inspired 
    by the brain speech mechanism. 
 """
+
+import tensorflow as tf
+
 class VRLSTM(object):       
         def __init__(self, D, M, K,  dura, bs=1, LR=0.1, 
                      ckpt_path="models/lstmr/", model_name="lstmr"):
